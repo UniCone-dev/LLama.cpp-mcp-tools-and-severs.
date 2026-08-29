@@ -251,3 +251,4 @@ If you prefer an AI Agent (like Claude Code, Cursor, ChatGPT Desktop, or a termi
 **Persistent Memory:** All conversation logs, vector DB indexes, or tool memories are safely stored locally under the `memory/` directory.
 
 **Privacy & Security:** All scripts execute strictly on `127.0.0.1`. No data leaves your machine.
+by AUniCone-dev
