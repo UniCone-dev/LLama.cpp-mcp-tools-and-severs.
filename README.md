@@ -14,7 +14,7 @@ When you extract Local-LLM.tar.z or Local-LLM.zip, your folder structure will lo
 ├── models/               # Place your .gguf models here
 ├── start-qwen.sh         # Core inference script
 ├── start-tools-mcp.sh    # MCP local tools execution script
-└── start-websearch-mcp.sh# MCP web search execution script```
+└── start-websearch-mcp.sh# MCP web search execution script ```
 
 # Quick Installation Guide
 
